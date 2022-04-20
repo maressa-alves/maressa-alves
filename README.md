@@ -6,7 +6,7 @@ Hi, I'm Maressa, a Web Developer from Brazil
 - 🌱 I’m currently learning JAVA, Javascript, Angular, Vue
 - 📫 How to reach me: https://www.linkedin.com/in/maressa-alves/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Walked down the aisle at my wedding to "Throne Room" music from Star Wars IV
+- ⚡ Fun fact: Walked down the aisle at my wedding to "Throne Room" from Star Wars IV
 
 
 
