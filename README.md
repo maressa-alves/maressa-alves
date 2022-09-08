@@ -1,9 +1,9 @@
 ### Hello there 👋
 Hi, I'm Maressa, a Web Developer from Brazil
 
-- 👨‍💻 Graduated from Le Wagon as a Fullstack Web Developer
-- 🔭 Looking for a remote job opportunity
-- 🌱 I’m currently learning more about Javascript, Angular, Vue.js
+- 👨‍💻 Graduated from Le Wagon as a Fullstack Web Developer Ruby on Rails
+- 👨‍💻 Graduated from XP Educação in FrontEnd Development (CSS, Javascript, Angular, Vue.js)
+- 🔭 Looking for a jr remote job opportunity
 - 📫 How to reach me: https://www.linkedin.com/in/maressa-alves/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Walked down the aisle at my wedding to "Throne Room" from Star Wars IV
