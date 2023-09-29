@@ -1,5 +1,5 @@
 ### Hello there 👋
-Hi, I'm Maressa, a Web Developer from Brazil
+Hi, I'm Maressa, a IT student from Brazil
 
 - 👨‍💻 System Analysis and Development student
 - 👨‍💻 Graduated from Le Wagon as a Fullstack Web Developer Ruby on Rails
